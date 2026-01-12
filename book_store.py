@@ -5,7 +5,7 @@ class Book:
         self.publication_year = publication_year
 
     def get_age(self):
-        current_year = 2026
+        current_year = 2025
         return current_year - self.publication_year
     
     def get_summary(self):
