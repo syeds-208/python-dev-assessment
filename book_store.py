@@ -18,5 +18,5 @@ Book2 = Book("Data Structures", "John",2211443366, 2018)
 
 print("Book 1:", Book1.get_summary(), "AGE:", Book1.get_age())
 print("Book 2:", Book2.get_summary(), "AGE:", Book2.get_age())
-print("Book 2:", Book2.get_summary(), "AGE:", Book2.get_age())        
+        
 
