@@ -2,8 +2,6 @@
 
 This repository is for my developer assessment tasks.
 
-# Python Developer Assessment
-
 ## Project Overview
 This repository contains solutions to the Python Developer Assessment, covering basic Python programming, OOP, data structures, error handling, debugging, code style, and API interaction.
 
