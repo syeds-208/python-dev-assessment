@@ -9,9 +9,6 @@ def fetch_and_display_users(num_users):
     
     Args:
         num_users (int): Number of users to display.
-    
-    Returns:
-        None
     """
     # Constructing the URL
     url = f"{BASE_URL}/users"
