@@ -13,7 +13,7 @@ def fetch_and_display_users(num_users):
     Returns:
         None
     """
-    # Endpoint for users
+    # Constructing the URL
     url = f"{BASE_URL}/users"
 
     try:
@@ -45,7 +45,7 @@ def fetch_and_display_users(num_users):
             print(f"Error: Missing key {e} in user data.")
             continue
 
-# Example usage
+# Example
 if __name__ == "__main__":
     print("Fetching 3 users:")
     fetch_and_display_users(3)
