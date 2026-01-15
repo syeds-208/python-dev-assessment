@@ -6,12 +6,12 @@ This repository is for my developer assessment tasks.
 This repository contains solutions to the Python Developer Assessment, covering basic Python programming, OOP, data structures, error handling, debugging, code style, and API interaction.
 
 ## Completed Tasks
-- Task 1.1: Hello World confirmation- [hello.py][hello.py]
+- Task 1.1: Hello World confirmation— [hello.py](hello.py)
 - Task 1.2: Git & GitHub basics (README updates, branch workflow)
-- Task 1.3: Code style & linting (`bad_style.py`)
-- Task 2.1: Data structures & algorithms (`dsa_challenges.py`)
-- Task 2.2: Object-oriented programming (`book_store.py`)
-- Task 2.3: Error handling & debugging (`debug_errors.py`)
+- Task 1.3: Code style & linting — [bad_style.py](bad_style.py)
+- Task 2.1: Data structures & algorithms — [dsa_challenges.py](dsa_challenges.py)
+- Task 2.2: Object-oriented programming — [book_store.py](book_store.py)
+- Task 2.3: Error handling & debugging — [debug_errors.py](debug_errors.py)
 - Task 3.1: API interaction (`api_client.py`)
 
 
@@ -23,4 +23,3 @@ This repository contains solutions to the Python Developer Assessment, covering 
 
 
 
-[hello.py]: hello.py
